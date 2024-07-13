@@ -1,1 +1,0 @@
-# teodoromayayo.github.io
