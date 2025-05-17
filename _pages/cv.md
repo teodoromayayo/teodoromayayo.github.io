@@ -1,12 +1,8 @@
 ---
-layout: cv
-# permalink: /cv/
+layout: page
 permalink: /assets/pdf/CV.pdf
-title: CV
+title: resume
 nav: true
-nav_order: 4
-cv_pdf: CV.pdf
-description: My CV.
-toc:
-sidebar: left
+nav_order: 3
+description:
 ---
