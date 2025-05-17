@@ -11,7 +11,7 @@ toc:
 
 <div class="post-description">
   <p>
-This website aims to provide notes on ordinary differential equations and modeling in ecology. They are suposed to be a resource for students and anyone interested in gaining insight into fields previously mentioned.
+This website aims to provide notes on ordinary differential equations and ecological modeling. It is intended as a resource for students and anyone interested in gaining insight into these fields.
   </p>
 </div>
 
