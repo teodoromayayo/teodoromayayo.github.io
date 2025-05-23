@@ -11,7 +11,7 @@ toc:
 
 <div class="post-description">
   <p>
-This website aims to provide notes on ordinary differential equations and ecological modeling. It is intended as a resource for students and anyone interested in gaining insight into these fields.
+This website mainly aims to provide notes on ordinary differential equations and ecological modeling. It is intended as a resource for students and anyone interested in gaining insight into these fields. Although I would love to write the notes in Catalan, my native language, I believe that using English will allow them to reach and benefit more people. However, I plan to upload material in Catalan in the near future.
   </p>
 </div>
 
@@ -31,6 +31,9 @@ This website aims to provide notes on ordinary differential equations and ecolog
 </ul>
 <ul>
   <li><a href="https://example.com/my-topic.pdf">Purpose of modeling</a></li>
+</ul>
+<ul>
+  <li><a href="https://example.com/my-topic.pdf">Cellular Automata</a></li>
 </ul>
 
 
