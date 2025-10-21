@@ -17,23 +17,6 @@ This website mainly aims to provide notes on ordinary differential equations and
 
 <h2>Ordinary Differential Equations</h2>
 
-<h4>Planar differential systems</h4>
-<ul>
-  <li><a href="https://example.com/my-topic.pdf">Poincaré compactification</a></li>
-</ul>
-<ul>
-  <li><a href="https://example.com/my-topic.pdf">Solutions of linear systems</a></li>
-</ul>
-
 <h2>Modeling in Ecology</h2>
-<ul>
-  <li><a href="https://example.com/my-topic.pdf">ODEs with general soluton in ecology</a></li>
-</ul>
-<ul>
-  <li><a href="https://example.com/my-topic.pdf">Purpose of modeling</a></li>
-</ul>
-<ul>
-  <li><a href="https://example.com/my-topic.pdf">Cellular Automata</a></li>
-</ul>
 
 
